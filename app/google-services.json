@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "697623752760",
+    "project_id": "appfutbol-fa4ff",
+    "storage_bucket": "appfutbol-fa4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697623752760:android:05cc09e85e0585a5d976cd",
+        "android_client_info": {
+          "package_name": "com.rendonsoft.appfutbol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697623752760-beg6v3vjnrkisvubvhq7olbgt80ojei4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rendonsoft.appfutbol",
+            "certificate_hash": "e804f1331cc639f4b7b36a48a3e06f471962eff6"
+          }
+        },
+        {
+          "client_id": "697623752760-ea9n462m3600eeug18uq7a43nhq9ugmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Y2UUdvvx9zxis8YHDumDCJ8JTxyFiww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697623752760-ea9n462m3600eeug18uq7a43nhq9ugmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697623752760:android:2b3001243e107986d976cd",
+        "android_client_info": {
+          "package_name": "com.totalplay.xpenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697623752760-ea9n462m3600eeug18uq7a43nhq9ugmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Y2UUdvvx9zxis8YHDumDCJ8JTxyFiww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697623752760-ea9n462m3600eeug18uq7a43nhq9ugmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

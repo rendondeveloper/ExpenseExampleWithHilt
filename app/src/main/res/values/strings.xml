@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Xpenses</string>
+    <string name="today_btn_save">Save</string>
+    <string name="start_capital">Start Capital</string>
+    <string name="final_capital">Final capital\n</string>
+    <string name="expense_capital">Expense capital\n</string>
+</resources>
